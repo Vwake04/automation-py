@@ -48,9 +48,9 @@ def getContainer(containerName, weight, quantity = 1, isShipperOwnedContainer = 
 def sendMail(body):
     port = 587  # For starttls
     smtp_server = "smtp.gmail.com"
-    sender_email = "facemefaith@gmail.com"
-    receiver_email = "facemefaith@gmail.com"
-    password = "grey@tal"
+    sender_email = "helloworld@gmail.com"
+    receiver_email = "helloworld@gmail.com"
+    password = "******"
     message = f"""\
     Subject: Hi there
 
