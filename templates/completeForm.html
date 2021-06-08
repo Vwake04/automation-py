@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <form action="/completeForm" method = "POST">
+
+        {% for city in citiesFrom %}
+            <input type="radio" id="_from" name="_from">
+            <label for="_from">{{city["cityName"]}} || {{city["regionName"]}} || {{city["countryName"]}}</label><br>
+            <!-- <h1>{{city["maerskGeoLocationId"]}}</h1> -->
+            <!-- <h1>{{city["countryName"]}}</h1> -->
+            <!-- <h1>{{city["cityName"]}}</h1> -->
+            <!-- <h1>{{city["regionName"]}}</h1> -->
+        {% endfor %}
+
+        {% for city in citiesTo %}
+            <input type="radio" id="_to" name="_to" value= >
+            <label for="_to">{{city["cityName"]}} || {{city["regionName"]}} || {{city["countryName"]}}</label><br>
+            <!-- <h1>{{city["maerskGeoLocationId"]}}</h1> -->
+            <!-- <h1>{{city["countryName"]}}</h1> -->
+            <!-- <h1>{{city["cityName"]}}</h1> -->
+            <!-- <h1>{{city["regionName"]}}</h1> -->
+        {% endfor %}
+        <p><input type = "submit" value = "Submit" /></p>
+
+    </form>
+</body>
+</html>

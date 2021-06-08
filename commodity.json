@@ -1,0 +1,3116 @@
+[
+    {
+        "commodityCode": "003201",
+        "commodityName": "Adhesive tape, plastic",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004601",
+        "commodityName": "Aircraft, spacecraft, and parts thereof",
+        "commodityGroupName": "Frozen - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000501",
+        "commodityName": "Albacore, frozen, fish",
+        "commodityGroupName": "Frozen - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000502",
+        "commodityName": "Albacore, longfinned , frozen, fish",
+        "commodityGroupName": "Frozen - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000503",
+        "commodityName": "Albacore, longfinned , non-frozen, fish",
+        "commodityGroupName": "Chilled - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000504",
+        "commodityName": "Albacore, non-frozen, fish",
+        "commodityGroupName": "Chilled - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000201",
+        "commodityName": "Alcoholic beverages, nos",
+        "commodityGroupName": "Chilled - Beverages",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002301",
+        "commodityName": "Aluminium, aluminium articles, metal",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000901",
+        "commodityName": "Animal fats, animal oils, lards",
+        "commodityGroupName": "Chilled - Grain, rice, flour, seed, nuts and vegetable oil",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000301",
+        "commodityName": "Animal fodder, pet food, frozen",
+        "commodityGroupName": "Frozen - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000302",
+        "commodityName": "Animal fodder, pet food, non-frozen",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000601",
+        "commodityName": "Apple concentrate, apple juice, frozen, foodstuff",
+        "commodityGroupName": "Frozen - Beverages",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000602",
+        "commodityName": "Apple concentrate, apple juice, non-frozen, foodstuff",
+        "commodityGroupName": "Chilled - Beverages",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000701",
+        "commodityName": "Apples, frozen, fruit",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000702",
+        "commodityName": "Apples, non-frozen, fruit",
+        "commodityGroupName": "Chilled - Fruits (exc. avocado, banana, pineapples, papaya, berries and citrus)",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000703",
+        "commodityName": "Apricot, frozen, fruit",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000704",
+        "commodityName": "Apricot, non-frozen, fruit",
+        "commodityGroupName": "Chilled - Fruits (exc. avocado, banana, pineapples, papaya, berries and citrus)",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001501",
+        "commodityName": "Art, antiques, collectors' pieces, Bric-a-Brac",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001301",
+        "commodityName": "Artichokes, frozen, vegetables",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001302",
+        "commodityName": "Artichokes, non-frozen, vegetables",
+        "commodityGroupName": "Chilled - Vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "003301",
+        "commodityName": "Artificial flowers",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001303",
+        "commodityName": "Asparagus, frozen, vegetables",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001304",
+        "commodityName": "Asparagus, non-frozen, vegetables",
+        "commodityGroupName": "Chilled - Vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001305",
+        "commodityName": "Aubergine, eggplant, frozen, vegetables",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001306",
+        "commodityName": "Aubergine, eggplant, non-frozen, vegetables",
+        "commodityGroupName": "Chilled - Vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004602",
+        "commodityName": "Autoparts, car parts, vehicle parts, motorcycleparts, bicycle parts, new",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004603",
+        "commodityName": "Autoparts, car parts, vehicle parts, motorcycleparts, bicycle parts, used",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000705",
+        "commodityName": "Avocado, frozen, fruit",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000706",
+        "commodityName": "Avocado, non-frozen, fruit",
+        "commodityGroupName": "Chilled - Avocado",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001101",
+        "commodityName": "Bairdi crab, frozen, shellfish",
+        "commodityGroupName": "Frozen - Seafood",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001102",
+        "commodityName": "Bairdi crab, non-frozen, shellfish",
+        "commodityGroupName": "Chilled - Seafood",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000707",
+        "commodityName": "Banana, plantains, frozen, fruit",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000708",
+        "commodityName": "Banana, plantains, non-frozen, fruit",
+        "commodityGroupName": "Chilled - Banana, Pineapples, Papaya",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002302",
+        "commodityName": "Base metals, base metal articles",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002501",
+        "commodityName": "Batteries",
+        "commodityGroupName": "Chilled - Chemicals and fertilizers",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001307",
+        "commodityName": "Beans, frozen, vegetables",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001308",
+        "commodityName": "Beans, non-frozen, vegetables",
+        "commodityGroupName": "Chilled - Vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000801",
+        "commodityName": "Beef, meat, frozen",
+        "commodityGroupName": "Frozen - Meat",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000802",
+        "commodityName": "Beef, meat, non-frozen",
+        "commodityGroupName": "Chilled - Meat",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000202",
+        "commodityName": "Beer, beverages",
+        "commodityGroupName": "Chilled - Beverages",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001309",
+        "commodityName": "Beetroot, red beet, celeriac, radishes, frozen, vegetables",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001310",
+        "commodityName": "Beetroot, red beet, celeriac, radishes, non-frozen, vegetables",
+        "commodityGroupName": "Chilled - Vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000101",
+        "commodityName": "Berries nos, frozen",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000102",
+        "commodityName": "Berries nos, non-frozen",
+        "commodityGroupName": "Chilled - Berries",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000203",
+        "commodityName": "Beverages, softdrink",
+        "commodityGroupName": "Chilled - Beverages",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001130",
+        "commodityName": "Bi-valve mollusks, live, shellfish",
+        "commodityGroupName": "Chilled - Seafood",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001311",
+        "commodityName": "Bitter gourd, cherimoya, chillies, courgette, zucchini, fennels, sugar peas, scorzoner, taro, malanga, parsnips, pak chois, okra, ladies finger, rhubarb, frozen, vegetables",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001312",
+        "commodityName": "Bitter gourd, cherimoya, chillies, courgette, zucchini, fennels, sugar peas, scorzoner, taro, malanga, parsnips, pak chois, okra, ladies finger, rhubarb, non-frozen, vegetables",
+        "commodityGroupName": "Chilled - Vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000505",
+        "commodityName": "Black cod, frozen, fish",
+        "commodityGroupName": "Frozen - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000506",
+        "commodityName": "Black cod, non-frozen, fish",
+        "commodityGroupName": "Chilled - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001201",
+        "commodityName": "Black fermented tea in packings <= 3 kg, frozen",
+        "commodityGroupName": "Frozen - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001202",
+        "commodityName": "Black fermented tea in packings <= 3 kg, non-frozen",
+        "commodityGroupName": "Chilled - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001203",
+        "commodityName": "Black fermented tea in packings > 3 kg, frozen",
+        "commodityGroupName": "Frozen - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001204",
+        "commodityName": "Black fermented tea in packings > 3 kg, non-frozen",
+        "commodityGroupName": "Chilled - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000103",
+        "commodityName": "Blueberries, raspberries, frozen, berries",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000104",
+        "commodityName": "Blueberries, raspberries, non-frozen, berries",
+        "commodityGroupName": "Chilled - Berries",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000303",
+        "commodityName": "Bone Meal, non frozen",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002801",
+        "commodityName": "Books, newspapers, pictures, printed matter",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000507",
+        "commodityName": "Bottom fish, nos, frozen, fish",
+        "commodityGroupName": "Frozen - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000508",
+        "commodityName": "Bottom fish, nos, non-frozen, fish",
+        "commodityGroupName": "Chilled - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000304",
+        "commodityName": "Bovine Semen, frozen",
+        "commodityGroupName": "Frozen - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001313",
+        "commodityName": "Broccoli, cauliflower, frozen, vegetables",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001314",
+        "commodityName": "Broccoli, cauliflower, non-frozen, vegetables",
+        "commodityGroupName": "Chilled - Vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001315",
+        "commodityName": "Brussels sprouts, frozen, vegetables",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001316",
+        "commodityName": "Brussels sprouts, non-frozen, vegetables",
+        "commodityGroupName": "Chilled - Vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000639",
+        "commodityName": "Bulk liquids - frozen",
+        "commodityGroupName": "Chilled - Bulk liquid",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000638",
+        "commodityName": "Bulk liquids, non-frozen",
+        "commodityGroupName": "Chilled - Bulk liquid",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000401",
+        "commodityName": "Butter, fats, oils, frozen",
+        "commodityGroupName": "Frozen - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000402",
+        "commodityName": "Butter, fats, oils, non-frozen",
+        "commodityGroupName": "Chilled - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001317",
+        "commodityName": "Cabbage, frozen, vegetables",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001318",
+        "commodityName": "Cabbage, non-frozen, vegetables",
+        "commodityGroupName": "Chilled - Vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001601",
+        "commodityName": "Calcium hypochlorite",
+        "commodityGroupName": "Chilled - Chemicals and fertilizers",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001614",
+        "commodityName": "Calcium Products NOT Calcium Hypochlorite",
+        "commodityGroupName": "Chilled - Chemicals and fertilizers",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001401",
+        "commodityName": "Candles, tapers",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000709",
+        "commodityName": "Carambolas, starfruits, durians, cha-nee, feijoas, jackfruit, kumquats, whortleberries, persimmon, kaki, passion fruit, parsley, longan, loquats, hee, lychee, mon-thong, cha-nee, prickly pear, frozen, fruit",
+        "commodityGroupName": "Chilled - Fruits (exc. avocado, banana, pineapples, papaya, berries and citrus)",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000710",
+        "commodityName": "Carambolas, starfruits, durians, cha-nee, feijoas, jackfruit, kumquats, whortleberries, persimmon, kaki, passion fruit, parsley, longan, loquats, hee, lychee, mon-thong, cha-nee, prickly pear, non-frozen, fruit",
+        "commodityGroupName": "Chilled - Fruits (exc. avocado, banana, pineapples, papaya, berries and citrus)",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001612",
+        "commodityName": "Carbon Black",
+        "commodityGroupName": "Chilled - Chemicals and fertilizers",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004101",
+        "commodityName": "Carpets, floor coverings, textiles",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001319",
+        "commodityName": "Carrots, turnips, frozen, vegetables",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001320",
+        "commodityName": "Carrots, turnips, non-frozen, vegetables",
+        "commodityGroupName": "Chilled - Vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004604",
+        "commodityName": "Cars knocked down",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001321",
+        "commodityName": "Celery, frozen, vegetables",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001322",
+        "commodityName": "Celery, non-frozen, vegetables",
+        "commodityGroupName": "Chilled - Vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004201",
+        "commodityName": "Ceramics, stoneware",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001001",
+        "commodityName": "Cereals, pop corn, wheat, corn, rye, oats, corn, rice",
+        "commodityGroupName": "Chilled - Grain, rice, flour, seed, nuts and vegetable oil",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000403",
+        "commodityName": "Cheese, fresh, grated or powdered, non-frozen",
+        "commodityGroupName": "Chilled - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000404",
+        "commodityName": "Cheese, frozen",
+        "commodityGroupName": "Frozen - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001602",
+        "commodityName": "Chemical products, nos",
+        "commodityGroupName": "Chilled - Chemicals and fertilizers",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000105",
+        "commodityName": "Cherries, frozen, berries",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000106",
+        "commodityName": "Cherries, non-frozen, berries",
+        "commodityGroupName": "Chilled - Fruits (exc. avocado, banana, pineapples, papaya, berries and citrus)",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000711",
+        "commodityName": "Chestnuts",
+        "commodityGroupName": "Chilled - Grain, rice, flour, seed, nuts and vegetable oil",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001323",
+        "commodityName": "Chicory, frozen, vegetables",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001324",
+        "commodityName": "Chicory, non-frozen, vegetables",
+        "commodityGroupName": "Chilled - Vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000603",
+        "commodityName": "Chocolate, frozen, foodstuff",
+        "commodityGroupName": "Frozen - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000604",
+        "commodityName": "Chocolate, non-frozen, foodstuff",
+        "commodityGroupName": "Chilled - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004301",
+        "commodityName": "Cigarettes",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000712",
+        "commodityName": "Citrus various, orange, frozen, fruit",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000713",
+        "commodityName": "Citrus various, orange, non-frozen, fruit",
+        "commodityGroupName": "Chilled - Citrus",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "003701",
+        "commodityName": "Clay",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000714",
+        "commodityName": "Clementine, mandarins, tangerines, frozen, fruit",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000715",
+        "commodityName": "Clementine, mandarins, tangerines, non-frozen, fruit",
+        "commodityGroupName": "Chilled - Citrus",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001603",
+        "commodityName": "Clethodim",
+        "commodityGroupName": "Chilled - Chemicals and fertilizers",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002502",
+        "commodityName": "Clocks, watches and parts thereof",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000605",
+        "commodityName": "Cocoa beans, foodstuff",
+        "commodityGroupName": "Chilled - Coffee, tea and cocoa beans",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000606",
+        "commodityName": "Cocoa butter, foodstuff",
+        "commodityGroupName": "Chilled - Coffee, tea and cocoa beans",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000607",
+        "commodityName": "Cocoa powder, foodstuff",
+        "commodityGroupName": "Chilled - Coffee, tea and cocoa beans",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000716",
+        "commodityName": "Coconuts, brazil nuts, cashew nuts",
+        "commodityGroupName": "Chilled - Grain, rice, flour, seed, nuts and vegetable oil",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000509",
+        "commodityName": "Cod fish, frozen, fish",
+        "commodityGroupName": "Frozen - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000510",
+        "commodityName": "Cod fish, non-frozen, fish",
+        "commodityGroupName": "Chilled - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000511",
+        "commodityName": "Cod milt, pollock milt, frozen, fish",
+        "commodityGroupName": "Frozen - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000512",
+        "commodityName": "Cod milt, pollock milt, non-frozen, fish",
+        "commodityGroupName": "Chilled - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000513",
+        "commodityName": "Cod roe, frozen, fish",
+        "commodityGroupName": "Frozen - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000514",
+        "commodityName": "Cod roe, non-frozen, fish",
+        "commodityGroupName": "Chilled - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000515",
+        "commodityName": "Cod stomachs, pollock stomachs, frozen, fish",
+        "commodityGroupName": "Frozen - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000516",
+        "commodityName": "Cod stomachs, pollock stomachs, non-frozen, fish",
+        "commodityGroupName": "Chilled - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001205",
+        "commodityName": "Coffee extracts, frozen",
+        "commodityGroupName": "Frozen - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001206",
+        "commodityName": "Coffee extracts, non-frozen",
+        "commodityGroupName": "Chilled - Coffee, tea and cocoa beans",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001207",
+        "commodityName": "Coffee, non-roasted, frozen",
+        "commodityGroupName": "Frozen - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001208",
+        "commodityName": "Coffee, non-roasted, non-frozen",
+        "commodityGroupName": "Chilled - Coffee, tea and cocoa beans",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001209",
+        "commodityName": "Coffee, roasted , non-frozen",
+        "commodityGroupName": "Chilled - Coffee, tea and cocoa beans",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001210",
+        "commodityName": "Coffee, roasted, frozen",
+        "commodityGroupName": "Frozen - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001402",
+        "commodityName": "Computers, computer parts, new",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001403",
+        "commodityName": "Computers, computer parts, used",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000608",
+        "commodityName": "Confectionery, candy, foodstuff",
+        "commodityGroupName": "Chilled - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002303",
+        "commodityName": "Construction and building material, insulation material, metal",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002304",
+        "commodityName": "Copper, copper articles, metal",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002305",
+        "commodityName": "Copper, refined, metal",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001701",
+        "commodityName": "Cork, articles of cork",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001325",
+        "commodityName": "Corn, baby, frozen, vegetables",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001326",
+        "commodityName": "Corn, baby, non-frozen, vegetables",
+        "commodityGroupName": "Chilled - Vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004120",
+        "commodityName": "Cotton Seeds",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004121",
+        "commodityName": "Cotton, raw, in bales",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004102",
+        "commodityName": "Cotton, textiles",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001103",
+        "commodityName": "Crab pots, frozen, shellfish",
+        "commodityGroupName": "Frozen - Seafood",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001104",
+        "commodityName": "Crab pots, non-frozen, shellfish",
+        "commodityGroupName": "Chilled - Seafood",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001105",
+        "commodityName": "Crab waste, frozen, shellfish",
+        "commodityGroupName": "Frozen - Seafood",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001106",
+        "commodityName": "Crab waste, non-frozen, shellfish",
+        "commodityGroupName": "Chilled - Seafood",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001107",
+        "commodityName": "Crab, canned, preserved, frozen, shellfish",
+        "commodityGroupName": "Frozen - Seafood",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001108",
+        "commodityName": "Crab, canned, preserved, non-frozen, shellfish",
+        "commodityGroupName": "Chilled - Seafood",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001109",
+        "commodityName": "Crab, nos, frozen, shellfish",
+        "commodityGroupName": "Frozen - Seafood",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001110",
+        "commodityName": "Crab, nos, non-frozen, shellfish",
+        "commodityGroupName": "Chilled - Seafood",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000107",
+        "commodityName": "Cranberries, frozen, berries",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000108",
+        "commodityName": "Cranberries, non-frozen, berries",
+        "commodityGroupName": "Chilled - Berries",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001131",
+        "commodityName": "Crustaceans, live, shellfish",
+        "commodityGroupName": "Chilled - Seafood",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001327",
+        "commodityName": "Cucumber, frozen, vegetables",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001328",
+        "commodityName": "Cucumber, non-frozen, vegetables",
+        "commodityGroupName": "Chilled - Vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "003101",
+        "commodityName": "Cut flowers",
+        "commodityGroupName": "Chilled - Flower bulbs and botanicals",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001111",
+        "commodityName": "Cuttle fish, frozen, shellfish",
+        "commodityGroupName": "Frozen - Seafood",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001112",
+        "commodityName": "Cuttle fish, non-frozen, shellfish",
+        "commodityGroupName": "Chilled - Seafood",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001604",
+        "commodityName": "Cyanide, cyanide products",
+        "commodityGroupName": "Chilled - Chemicals and fertilizers",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000405",
+        "commodityName": "Dairy products, frozen, nos",
+        "commodityGroupName": "Frozen - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000406",
+        "commodityName": "Dairy products, non-frozen, nos",
+        "commodityGroupName": "Chilled - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000717",
+        "commodityName": "Dates, frozen, fruit",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000718",
+        "commodityName": "Dates, non-frozen, fruit",
+        "commodityGroupName": "Chilled - Fruits (exc. avocado, banana, pineapples, papaya, berries and citrus)",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002901",
+        "commodityName": "Detergents",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001801",
+        "commodityName": "Diplomatic cargo",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000517",
+        "commodityName": "Eel, frozen, fish",
+        "commodityGroupName": "Frozen - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000518",
+        "commodityName": "Eel, non-frozen, fish",
+        "commodityGroupName": "Chilled - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000407",
+        "commodityName": "Eggs all kind, frozen",
+        "commodityGroupName": "Frozen - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000408",
+        "commodityName": "Eggs all kind, non-frozen",
+        "commodityGroupName": "Chilled - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001404",
+        "commodityName": "Electronics, electronic appliances, audio, videoequipment, telecommunication equipment, new",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001405",
+        "commodityName": "Electronics, electronic appliances, audio, videoequipment, telecommunication equipment, used",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002306",
+        "commodityName": "Empty tanks, containers, metal",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001329",
+        "commodityName": "Endive, escarole, frozen, vegetables",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001330",
+        "commodityName": "Endive, escarole, non-frozen, vegetables",
+        "commodityGroupName": "Chilled - Vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002902",
+        "commodityName": "Enzymes",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "003202",
+        "commodityName": "Epoxy Resin, plastic",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "003901",
+        "commodityName": "Esparto, other plaiting materials , and articlesof esparto, other plaiting materials",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002903",
+        "commodityName": "Essential oils",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "003501",
+        "commodityName": "Explosives, pyrotechnic products, nos",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004103",
+        "commodityName": "Fabrics, nos, textiles",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001901",
+        "commodityName": "Fertilizers",
+        "commodityGroupName": "Chilled - Chemicals and fertilizers",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004205",
+        "commodityName": "Fiber Glass",
+        "commodityGroupName": "FAK - Commodities not part of any Pricing Commodity Group",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000719",
+        "commodityName": "Figs, frozen, fruit",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000720",
+        "commodityName": "Figs, non-frozen, fruit",
+        "commodityGroupName": "Chilled - Fruits (exc. avocado, banana, pineapples, papaya, berries and citrus)",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "003502",
+        "commodityName": "Fireworks",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000305",
+        "commodityName": "Fish bones, unprocessed",
+        "commodityGroupName": "Frozen - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000902",
+        "commodityName": "Fish fats, fish oils",
+        "commodityGroupName": "Chilled - Grain, rice, flour, seed, nuts and vegetable oil",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000519",
+        "commodityName": "Fish fillet, dried, salted",
+        "commodityGroupName": "Chilled - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000520",
+        "commodityName": "Fish fillets, frozen",
+        "commodityGroupName": "Frozen - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000521",
+        "commodityName": "Fish fillets, non-frozen",
+        "commodityGroupName": "Chilled - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000306",
+        "commodityName": "Fish meal",
+        "commodityGroupName": "Chilled - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000563",
+        "commodityName": "Fish others, ULT(-60C/-76F)",
+        "commodityGroupName": "Frozen - Super freezer - Fish and foodstuff",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000522",
+        "commodityName": "Fish roe, frozen",
+        "commodityGroupName": "Frozen - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000523",
+        "commodityName": "Fish roe, non-frozen",
+        "commodityGroupName": "Chilled - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000524",
+        "commodityName": "Fish, dried",
+        "commodityGroupName": "Chilled - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000525",
+        "commodityName": "Fish, nos, frozen",
+        "commodityGroupName": "Frozen - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000526",
+        "commodityName": "Fish, nos, non-frozen",
+        "commodityGroupName": "Chilled - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001002",
+        "commodityName": "Flour all kinds",
+        "commodityGroupName": "Chilled - Grain, rice, flour, seed, nuts and vegetable oil",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "003102",
+        "commodityName": "Flower bulbs",
+        "commodityGroupName": "Chilled - Flower bulbs and botanicals",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "003103",
+        "commodityName": "Foliage, grass, moss",
+        "commodityGroupName": "Chilled - Flower bulbs and botanicals",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000637",
+        "commodityName": "Food Culture, ULT(-60C/-76F), foodstuff",
+        "commodityGroupName": "Frozen - Super freezer - Fish and foodstuff",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000610",
+        "commodityName": "Foodstuff, nos, frozen",
+        "commodityGroupName": "Frozen - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000611",
+        "commodityName": "Foodstuff, nos, non-frozen",
+        "commodityGroupName": "Chilled - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004104",
+        "commodityName": "Footwear, new, apparel",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004105",
+        "commodityName": "Footwear, used, apparel",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001331",
+        "commodityName": "French fries, IQF, frozen, vegetables",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001332",
+        "commodityName": "French fries, IQF, non-frozen, vegetables",
+        "commodityGroupName": "Chilled - Vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001333",
+        "commodityName": "Fresh or chilled truffles, vegetables",
+        "commodityGroupName": "Chilled - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000803",
+        "commodityName": "Frogs' legs, frozen",
+        "commodityGroupName": "Frozen - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000804",
+        "commodityName": "Frogs' legs, non-frozen",
+        "commodityGroupName": "Chilled - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001613",
+        "commodityName": "Frozen chemical products, nos",
+        "commodityGroupName": "Frozen - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002106",
+        "commodityName": "Frozen furskins, artificial fur",
+        "commodityGroupName": "Frozen - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000721",
+        "commodityName": "Fruits, nuts, dried, nos, non-frozen",
+        "commodityGroupName": "Chilled - Grain, rice, flour, seed, nuts and vegetable oil",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000722",
+        "commodityName": "Fruits, nuts, nos, frozen",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004701",
+        "commodityName": "Fuel wood, charcoal",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002001",
+        "commodityName": "Furniture, nos",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002101",
+        "commodityName": "Furskins, artificial fur",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001334",
+        "commodityName": "Garlic dried, frozen, vegetables",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001335",
+        "commodityName": "Garlic dried, non-frozen, vegetables",
+        "commodityGroupName": "Chilled - Vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004106",
+        "commodityName": "Garments, apparel, new",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004107",
+        "commodityName": "Garments, apparel, used",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001003",
+        "commodityName": "Ginger",
+        "commodityGroupName": "Chilled - Vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004202",
+        "commodityName": "Glass, glassware",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "003203",
+        "commodityName": "Gloves, surgical gloves, rubber",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000109",
+        "commodityName": "Gooseberries, pineapple cherries, frozen, berries",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000110",
+        "commodityName": "Gooseberries, pineapple cherries, non-frozen, berries",
+        "commodityGroupName": "Chilled - Berries",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000723",
+        "commodityName": "Grapefruit, frozen, fruit",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000724",
+        "commodityName": "Grapefruit, non-frozen, fruit",
+        "commodityGroupName": "Chilled - Citrus",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000725",
+        "commodityName": "Grapes, frozen, fruit",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000726",
+        "commodityName": "Grapes, non-frozen, fruit",
+        "commodityGroupName": "Chilled - Fruits (exc. avocado, banana, pineapples, papaya, berries and citrus)",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000727",
+        "commodityName": "Guavas, mangoes, mangoes, guavas, mangosteen, frozen, fruit",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000728",
+        "commodityName": "Guavas, mangoes, mangoes, guavas, mangosteen, non-frozen, fruit",
+        "commodityGroupName": "Chilled - Fruits (exc. avocado, banana, pineapples, papaya, berries and citrus)",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000527",
+        "commodityName": "Halibut, frozen, fish",
+        "commodityGroupName": "Frozen - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000528",
+        "commodityName": "Halibut, non-frozen, fish",
+        "commodityGroupName": "Chilled - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002102",
+        "commodityName": "Handbags, leather, trunks, suitcase, briefcase,wallets, purces, back-packs, school bags",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001406",
+        "commodityName": "Handtools",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004108",
+        "commodityName": "Hats, caps, new, apparel",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004109",
+        "commodityName": "Hats, caps, used, apparel",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "003902",
+        "commodityName": "Hay, Straw and articles of straw",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001605",
+        "commodityName": "Helium, liquid or gas",
+        "commodityGroupName": "Chilled - Chemicals and fertilizers",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000529",
+        "commodityName": "Herring roe, frozen, fish",
+        "commodityGroupName": "Frozen - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000530",
+        "commodityName": "Herring roe, non-frozen, fish",
+        "commodityGroupName": "Chilled - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000531",
+        "commodityName": "Herring, frozen, fish",
+        "commodityGroupName": "Frozen - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000532",
+        "commodityName": "Herring, non-frozen, fish",
+        "commodityGroupName": "Chilled - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000409",
+        "commodityName": "Honey, frozen",
+        "commodityGroupName": "Frozen - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000410",
+        "commodityName": "Honey, non-frozen",
+        "commodityGroupName": "Chilled - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000565",
+        "commodityName": "Horse Mackerel",
+        "commodityGroupName": "Frozen - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002307",
+        "commodityName": "Household articles of iron and steel, metal",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002201",
+        "commodityName": "Household goods, personal effects, not for resale or public distribution",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001606",
+        "commodityName": "Hydrazine",
+        "commodityGroupName": "Chilled - Chemicals and fertilizers",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000612",
+        "commodityName": "Ice cream, frozen, foodstuff",
+        "commodityGroupName": "Frozen - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000636",
+        "commodityName": "Ice Cream, ULT(-60C/-76F), foodstuff",
+        "commodityGroupName": "Frozen - Super freezer - Fish and foodstuff",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004110",
+        "commodityName": "Impregnated textile fabrics",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000748",
+        "commodityName": "Industrial Citrus",
+        "commodityGroupName": "Chilled - Citrus",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001373",
+        "commodityName": "Industrial Vegetables",
+        "commodityGroupName": "Chilled - Vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001607",
+        "commodityName": "Inorganic chemicals, nos",
+        "commodityGroupName": "Chilled - Chemicals and fertilizers",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002701",
+        "commodityName": "Iron ore",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002308",
+        "commodityName": "Iron, steel, iron and steel articles, metal",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000613",
+        "commodityName": "Jam, jelly, marmalade, frozen, foodstuff",
+        "commodityGroupName": "Frozen - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000614",
+        "commodityName": "Jam, jelly, marmalade, non-frozen, foodstuff",
+        "commodityGroupName": "Chilled - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000615",
+        "commodityName": "Juice, concentrate, nos, frozen, foodstuff",
+        "commodityGroupName": "Frozen - Beverages",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000616",
+        "commodityName": "Juice, concentrate, nos, non-frozen, foodstuff",
+        "commodityGroupName": "Chilled - Beverages",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001113",
+        "commodityName": "King crab, frozen, shellfish",
+        "commodityGroupName": "Frozen - Seafood",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001114",
+        "commodityName": "King crab, non-frozen, shellfish",
+        "commodityGroupName": "Chilled - Seafood",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001407",
+        "commodityName": "Kitchen and restaurant utilities, appliance, cookware, cutlery, flatware, dinner ware, china, dishes",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000729",
+        "commodityName": "Kiwi, frozen, fruit",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000730",
+        "commodityName": "Kiwi, non-frozen, fruit",
+        "commodityGroupName": "Chilled - Fruits (exc. avocado, banana, pineapples, papaya, berries and citrus)",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000617",
+        "commodityName": "Lactose, gums, foodstuff",
+        "commodityGroupName": "Chilled - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000805",
+        "commodityName": "Lamb, sheep, frozen, meat",
+        "commodityGroupName": "Frozen - Meat",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000806",
+        "commodityName": "Lamb, sheep, non-frozen, meat",
+        "commodityGroupName": "Chilled - Meat",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002002",
+        "commodityName": "Lamps, lighting fixtures",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002309",
+        "commodityName": "Lead, lead articles, metal",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002103",
+        "commodityName": "Leather accessories",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001336",
+        "commodityName": "Leeks, frozen, vegetables",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001337",
+        "commodityName": "Leeks, non-frozen, vegetables",
+        "commodityGroupName": "Chilled - Vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000731",
+        "commodityName": "Lemons, lime, frozen, fruit",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000732",
+        "commodityName": "Lemons, lime, non-frozen, fruit",
+        "commodityGroupName": "Chilled - Citrus",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001338",
+        "commodityName": "Lettuce, frozen, vegetables",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001339",
+        "commodityName": "Lettuce, non-frozen, vegetables",
+        "commodityGroupName": "Chilled - Vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000533",
+        "commodityName": "Live fish",
+        "commodityGroupName": "Chilled - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001115",
+        "commodityName": "Lobster, frozen, shellfish",
+        "commodityGroupName": "Frozen - Seafood",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001116",
+        "commodityName": "Lobster, non-frozen, shellfish",
+        "commodityGroupName": "Chilled - Seafood",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004702",
+        "commodityName": "Logs, lumber",
+        "commodityGroupName": "Frozen - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002904",
+        "commodityName": "Lubricants",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001408",
+        "commodityName": "Machinery or mechanical appliances, new",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001409",
+        "commodityName": "Machinery or mechanical appliances, used",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000564",
+        "commodityName": "Mackerel",
+        "commodityGroupName": "Frozen - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001340",
+        "commodityName": "Malanga, frozen, vegetables",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001341",
+        "commodityName": "Malanga, non-frozen, vegetables",
+        "commodityGroupName": "Chilled - Vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001004",
+        "commodityName": "Malt",
+        "commodityGroupName": "Chilled - Grain, rice, flour, seed, nuts and vegetable oil",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004111",
+        "commodityName": "Man-made filaments, textiles",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004112",
+        "commodityName": "Man-made staple fibres, textiles",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001342",
+        "commodityName": "Manioc, cassava,ukka, frozen, vegetables",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001343",
+        "commodityName": "Manioc, cassava,ukka, non-frozen, vegetables",
+        "commodityGroupName": "Chilled - Vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000411",
+        "commodityName": "Margarine, frozen",
+        "commodityGroupName": "Frozen - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000412",
+        "commodityName": "Margarine, non-frozen",
+        "commodityGroupName": "Chilled - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "003503",
+        "commodityName": "Matches",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001005",
+        "commodityName": "Mate",
+        "commodityGroupName": "Chilled - Grain, rice, flour, seed, nuts and vegetable oil",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000807",
+        "commodityName": "Meat, nos, frozen",
+        "commodityGroupName": "Frozen - Meat",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000808",
+        "commodityName": "Meat, nos, non-frozen",
+        "commodityGroupName": "Chilled - Meat",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000733",
+        "commodityName": "Melons cantaloupe, honey, net, frozen, fruit",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000734",
+        "commodityName": "Melons cantaloupe, honey, net, non-frozen, fruit",
+        "commodityGroupName": "Chilled - Fruits (exc. avocado, banana, pineapples, papaya, berries and citrus)",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000413",
+        "commodityName": "Milk, cream,ogurt, frozen",
+        "commodityGroupName": "Frozen - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000414",
+        "commodityName": "Milk, cream,ogurt, non-frozen",
+        "commodityGroupName": "Chilled - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002401",
+        "commodityName": "Mineral fuels, oils, waxes",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002702",
+        "commodityName": "Minerals",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002311",
+        "commodityName": "Molybdenum wire, metal",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004609",
+        "commodityName": "Motorized vehicles, cars, buses, trucks, lorries, motorcycles, minivan, set-up, new",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001344",
+        "commodityName": "Mushrooms, frozen, vegetables",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001345",
+        "commodityName": "Mushrooms, non-frozen, vegetables",
+        "commodityGroupName": "Chilled - Vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002601",
+        "commodityName": "Musical instruments",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004203",
+        "commodityName": "Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof, imitation jewellery, coin",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "003210",
+        "commodityName": "New - Tires, tyres, rubber",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002312",
+        "commodityName": "Nickel, nickel articles, metal",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "999996",
+        "commodityName": "non-US Flag US Agricultural Cargoes",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "999994",
+        "commodityName": "non-US Flag US Civilian Agencies Cargo",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "999998",
+        "commodityName": "non-US Flag US Foreign Military Sales",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002503",
+        "commodityName": "NVOCC Consolidated Cargo",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001117",
+        "commodityName": "Octopus, frozen, shellfish",
+        "commodityGroupName": "Frozen - Seafood",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001118",
+        "commodityName": "Octopus, non-frozen, shellfish",
+        "commodityGroupName": "Chilled - Seafood",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001346",
+        "commodityName": "Onion, frozen, starvent, vegetables",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001347",
+        "commodityName": "Onion, non-frozen, starvent, vegetables",
+        "commodityGroupName": "Chilled - Vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001348",
+        "commodityName": "Onions, frozen, vegetables",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001349",
+        "commodityName": "Onions, non-frozen, vegetables",
+        "commodityGroupName": "Chilled - Vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001119",
+        "commodityName": "Opilio crab, frozen, shellfish",
+        "commodityGroupName": "Frozen - Seafood",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001120",
+        "commodityName": "Opilio crab, non-frozen, shellfish",
+        "commodityGroupName": "Chilled - Seafood",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002504",
+        "commodityName": "Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical instruments and apparatus, parts and accessories thereof",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000618",
+        "commodityName": "Orange juice, frozen, foodstuff",
+        "commodityGroupName": "Frozen - Beverages",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000619",
+        "commodityName": "Orange juice, non-frozen, foodstuff",
+        "commodityGroupName": "Chilled - Beverages",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002703",
+        "commodityName": "Ores, nos",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001608",
+        "commodityName": "Organic chemicals, nos",
+        "commodityGroupName": "Chilled - Chemicals and fertilizers",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004113",
+        "commodityName": "Other vegetable textile fibres, paperarn, woven fabrics of paperarn",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000903",
+        "commodityName": "Palm oil",
+        "commodityGroupName": "Chilled - Grain, rice, flour, seed, nuts and vegetable oil",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000735",
+        "commodityName": "Papaya, frozen, fruit",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000736",
+        "commodityName": "Papaya, non-frozen, fruit",
+        "commodityGroupName": "Chilled - Banana, Pineapples, Papaya",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002802",
+        "commodityName": "Paper, paperboard, packing material",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002804",
+        "commodityName": "Paperboard, KLB, Kraft Liner board, linerboard,newsprint, mail",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000620",
+        "commodityName": "Pastry, bread, cake, frozen, foodstuff",
+        "commodityGroupName": "Frozen - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000621",
+        "commodityName": "Pastry, bread, cake, non-frozen, foodstuff",
+        "commodityGroupName": "Chilled - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002003",
+        "commodityName": "Patio furniture",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000737",
+        "commodityName": "Peaches, nectarines, frozen, fruit",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000738",
+        "commodityName": "Peaches, nectarines, non-frozen, fruit",
+        "commodityGroupName": "Chilled - Fruits (exc. avocado, banana, pineapples, papaya, berries and citrus)",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001012",
+        "commodityName": "Peanuts",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000739",
+        "commodityName": "Pears, quinces, frozen, fruit",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000740",
+        "commodityName": "Pears, quinces, non-frozen, fruit",
+        "commodityGroupName": "Chilled - Fruits (exc. avocado, banana, pineapples, papaya, berries and citrus)",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001350",
+        "commodityName": "Peas, frozen, vegetables",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001351",
+        "commodityName": "Peas, non-frozen, vegetables",
+        "commodityGroupName": "Chilled - Vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "003105",
+        "commodityName": "Peat Moss",
+        "commodityGroupName": "FAK - Commodities not part of any Pricing Commodity Group",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001006",
+        "commodityName": "Peel of melon or citrus, frozen",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001007",
+        "commodityName": "Peel of melon or citrus, non-frozen",
+        "commodityGroupName": "Chilled - Citrus",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001352",
+        "commodityName": "Peppers capsicum, frozen, vegetables",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001353",
+        "commodityName": "Peppers capsicum, non-frozen, vegetables",
+        "commodityGroupName": "Chilled - Vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002905",
+        "commodityName": "Perfumes, make-up, cosmetics, toilet preparations",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "003002",
+        "commodityName": "Pharmaceutical products, medicaments, low value less than USD 500,000",
+        "commodityGroupName": "Chilled - Low value pharmaceuticals",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "003003",
+        "commodityName": "Pharmaceuticals products, medicaments, > 3,000,000 USD",
+        "commodityGroupName": "Chilled - High value pharmaceuticals",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "003001",
+        "commodityName": "Pharmaceuticals products, medicaments, > 500,000 and < 3,000,000 USD + Blood Plasma",
+        "commodityGroupName": "Chilled - High value pharmaceuticals",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "003702",
+        "commodityName": "Phosphates",
+        "commodityGroupName": "Chilled - Chemicals and fertilizers",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001410",
+        "commodityName": "Photo conductor",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002505",
+        "commodityName": "Photographic paper, photographic film",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000622",
+        "commodityName": "Pineapple juice, frozen, foodstuff",
+        "commodityGroupName": "Frozen - Beverages",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000623",
+        "commodityName": "Pineapple juice, non-frozen, foodstuff",
+        "commodityGroupName": "Chilled - Beverages",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000741",
+        "commodityName": "Pineapples, frozen, fruit",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000742",
+        "commodityName": "Pineapples, non-frozen, fruit",
+        "commodityGroupName": "Chilled - Banana, Pineapples, Papaya",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "003104",
+        "commodityName": "Plants, potted",
+        "commodityGroupName": "Chilled - Flower bulbs and botanicals",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "003204",
+        "commodityName": "Plastic, plastic articles, new",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "003205",
+        "commodityName": "Plastic, plastic articles, used",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "003206",
+        "commodityName": "Plates, sheets, film, foil, plastic",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000743",
+        "commodityName": "Plums, sloes, frozen, fruit",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000744",
+        "commodityName": "Plums, sloes, non-frozen, fruit",
+        "commodityGroupName": "Chilled - Fruits (exc. avocado, banana, pineapples, papaya, berries and citrus)",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004703",
+        "commodityName": "Plywood, panel, board products",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002906",
+        "commodityName": "Polishes, creams",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000534",
+        "commodityName": "Pollock fish, frozen, fish",
+        "commodityGroupName": "Frozen - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000535",
+        "commodityName": "Pollock fish, non-frozen, fish",
+        "commodityGroupName": "Chilled - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000536",
+        "commodityName": "Pollock roe, frozen, fish",
+        "commodityGroupName": "Frozen - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000537",
+        "commodityName": "Pollock roe, non-frozen, fish",
+        "commodityGroupName": "Chilled - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000749",
+        "commodityName": "Pomegranates, frozen",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000750",
+        "commodityName": "Pomegranates, non-frozen",
+        "commodityGroupName": "Chilled - Fruits (exc. avocado, banana, pineapples, papaya, berries and citrus)",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000809",
+        "commodityName": "Pork, swine, frozen, meat",
+        "commodityGroupName": "Frozen - Meat",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000810",
+        "commodityName": "Pork, swine, non-frozen, meat",
+        "commodityGroupName": "Chilled - Meat",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001354",
+        "commodityName": "Potatoes, frozen, vegetables",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001355",
+        "commodityName": "Potatoes, non-frozen, vegetables",
+        "commodityGroupName": "Chilled - Vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000811",
+        "commodityName": "Poultry, chicken, turkey, duck, fowl, frozen",
+        "commodityGroupName": "Frozen - Meat",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000812",
+        "commodityName": "Poultry, chicken, turkey, duck, fowl, non-frozen",
+        "commodityGroupName": "Chilled - Meat",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "003302",
+        "commodityName": "Prepared feathers and down and articles made offeathers or of down, artificial flowers, articles of human hair",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "003401",
+        "commodityName": "Project exported in accordance with commision regulation (ec) no 840/96",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000624",
+        "commodityName": "Provisions, food additives, vitamins, foodstuff",
+        "commodityGroupName": "Chilled - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002805",
+        "commodityName": "Pulping and papermaking derivatives, granular orliquid",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004114",
+        "commodityName": "Rags, textile waste",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004605",
+        "commodityName": "Railway equipment",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002104",
+        "commodityName": "Raw hides, skins, dry",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002105",
+        "commodityName": "Raw hides, skins, wet",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002107",
+        "commodityName": "Raw hides, skins, wet, frozen",
+        "commodityGroupName": "Frozen - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002402",
+        "commodityName": "Refuse derived fuel",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "003601",
+        "commodityName": "Relief goods",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "003207",
+        "commodityName": "Rubber articles, rubber goods",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000538",
+        "commodityName": "Sable fish, frozen, fish",
+        "commodityGroupName": "Frozen - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000539",
+        "commodityName": "Sable fish, non-frozen, fish",
+        "commodityGroupName": "Chilled - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "003208",
+        "commodityName": "Sacks and bags, plastic",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000540",
+        "commodityName": "Salmon roe, frozen, fish",
+        "commodityGroupName": "Frozen - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000541",
+        "commodityName": "Salmon roe, non-frozen, fish",
+        "commodityGroupName": "Chilled - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000543",
+        "commodityName": "Salmon, frozen, fish",
+        "commodityGroupName": "Frozen - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000544",
+        "commodityName": "Salmon, non-frozen, fish",
+        "commodityGroupName": "Chilled - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000542",
+        "commodityName": "Salmon, pink chum, frozen, fish",
+        "commodityGroupName": "Frozen - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000562",
+        "commodityName": "Salmon/Trout, ULT(-60C/-76F), fish",
+        "commodityGroupName": "Frozen - Super freezer - Fish and foodstuff",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "003703",
+        "commodityName": "Salt, sulphur, earths and stone, plastering materials, lime, cement, marble, granite",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000546",
+        "commodityName": "Sardines, frozen, fish",
+        "commodityGroupName": "Frozen - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000547",
+        "commodityName": "Sardines, non-frozen, fish",
+        "commodityGroupName": "Chilled - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000625",
+        "commodityName": "Sauce, frozen, foodstuff",
+        "commodityGroupName": "Frozen - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000626",
+        "commodityName": "Sauce, non-frozen, foodstuff",
+        "commodityGroupName": "Chilled - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002313",
+        "commodityName": "Scrap metal",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001129",
+        "commodityName": "Sea Urchin, ULT(-60C/-76F), shellfish",
+        "commodityGroupName": "Frozen - Super freezer - Fish and foodstuff",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001121",
+        "commodityName": "Sea urchins, frozen, shellfish",
+        "commodityGroupName": "Frozen - Seafood",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001122",
+        "commodityName": "Sea urchins, non-frozen, shellfish",
+        "commodityGroupName": "Chilled - Seafood",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002004",
+        "commodityName": "Seats, convertible into beds",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "003903",
+        "commodityName": "Seaweed",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002704",
+        "commodityName": "Seaweed ash",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001014",
+        "commodityName": "Seed cake",
+        "commodityGroupName": "Chilled - Grain, rice, flour, seed, nuts and vegetable oil",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001013",
+        "commodityName": "Seed meal",
+        "commodityGroupName": "Chilled - Grain, rice, flour, seed, nuts and vegetable oil",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001008",
+        "commodityName": "Seeds, grains, industrial plants, medicinal plants",
+        "commodityGroupName": "Chilled - Grain, rice, flour, seed, nuts and vegetable oil",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001009",
+        "commodityName": "Seeds, sesame seeds",
+        "commodityGroupName": "Chilled - Grain, rice, flour, seed, nuts and vegetable oil",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002907",
+        "commodityName": "Shampoo",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001123",
+        "commodityName": "Shellfish, IQF, nos, frozen",
+        "commodityGroupName": "Frozen - Seafood",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001124",
+        "commodityName": "Shellfish, IQF, nos, non-frozen",
+        "commodityGroupName": "Chilled - Seafood",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000307",
+        "commodityName": "Shells, crab, crushed",
+        "commodityGroupName": "Chilled - Seafood",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004606",
+        "commodityName": "Ships, boats and floating structures",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "003802",
+        "commodityName": "Shotguns - sports goods",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001125",
+        "commodityName": "Shrimps, prawns, frozen, shellfish",
+        "commodityGroupName": "Frozen - Seafood",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001126",
+        "commodityName": "Shrimps, prawns, non-frozen, shellfish",
+        "commodityGroupName": "Chilled - Seafood",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004115",
+        "commodityName": "Silk, textiles",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000548",
+        "commodityName": "Skipjack, frozen, fish",
+        "commodityGroupName": "Frozen - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000549",
+        "commodityName": "Skipjack, non-frozen, fish",
+        "commodityGroupName": "Chilled - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002705",
+        "commodityName": "Slag, ash",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000550",
+        "commodityName": "Smoked fish, frozen",
+        "commodityGroupName": "Frozen - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000551",
+        "commodityName": "Smoked fish, non-frozen",
+        "commodityGroupName": "Chilled - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001127",
+        "commodityName": "Snails, frozen, shellfish",
+        "commodityGroupName": "Frozen - Seafood",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001128",
+        "commodityName": "Snails, non-frozen, shellfish",
+        "commodityGroupName": "Chilled - Seafood",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002908",
+        "commodityName": "Soap",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002403",
+        "commodityName": "Solid Recovered fuel",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000627",
+        "commodityName": "Soups, broth, frozen, foodstuff",
+        "commodityGroupName": "Frozen - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000628",
+        "commodityName": "Soups, broth, non-frozen, foodstuff",
+        "commodityGroupName": "Chilled - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001010",
+        "commodityName": "Soy, soybeans",
+        "commodityGroupName": "Chilled - Grain, rice, flour, seed, nuts and vegetable oil",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001011",
+        "commodityName": "Spices",
+        "commodityGroupName": "Chilled - Grain, rice, flour, seed, nuts and vegetable oil",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001356",
+        "commodityName": "Spinach, frozen, vegetables",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001357",
+        "commodityName": "Spinach, non-frozen, vegetables",
+        "commodityGroupName": "Chilled - Vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "003801",
+        "commodityName": "Sports goods",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001374",
+        "commodityName": "Spring Onion",
+        "commodityGroupName": "Chilled - Vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002404",
+        "commodityName": "SRF pellets",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001411",
+        "commodityName": "Starches, glue",
+        "commodityGroupName": "Chilled - Chemicals and fertilizers",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002809",
+        "commodityName": "Stationery",
+        "commodityGroupName": "FAK - Commodities not part of any Pricing Commodity Group",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002317",
+        "commodityName": "Steel coil",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000111",
+        "commodityName": "Strawberries, frozen, berries",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000112",
+        "commodityName": "Strawberries, non-frozen, berries",
+        "commodityGroupName": "Chilled - Berries",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000629",
+        "commodityName": "Sugar, syrup, foodstuff",
+        "commodityGroupName": "Chilled - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000552",
+        "commodityName": "Surimi, frozen, fish",
+        "commodityGroupName": "Frozen - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000553",
+        "commodityName": "Surimi, non-frozen, fish",
+        "commodityGroupName": "Chilled - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001358",
+        "commodityName": "Swedes, frozen, vegetables",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001359",
+        "commodityName": "Swedes, non-frozen, vegetables",
+        "commodityGroupName": "Chilled - Vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001360",
+        "commodityName": "Sweet potatoes, frozen, vegetables",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001361",
+        "commodityName": "Sweet potatoes, non-frozen, vegetables",
+        "commodityGroupName": "Chilled - Vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001362",
+        "commodityName": "Sweetcorn, frozen, vegetables",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001363",
+        "commodityName": "Sweetcorn, non-frozen, vegetables",
+        "commodityGroupName": "Chilled - Vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "003209",
+        "commodityName": "Synthetic resins, plastic",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004001",
+        "commodityName": "Tanning extracts, dyeing extracts, paints, varnishes",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001211",
+        "commodityName": "Tea, bags, frozen",
+        "commodityGroupName": "Frozen - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001212",
+        "commodityName": "Tea, bags, non-frozen",
+        "commodityGroupName": "Chilled - Coffee, tea and cocoa beans",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001213",
+        "commodityName": "Tea, loose, frozen",
+        "commodityGroupName": "Frozen - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001214",
+        "commodityName": "Tea, loose, non-frozen",
+        "commodityGroupName": "Chilled - Coffee, tea and cocoa beans",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004116",
+        "commodityName": "Textiles, cotton piece goods",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004204",
+        "commodityName": "Tile, stone articles",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004704",
+        "commodityName": "Timber, sawn",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002314",
+        "commodityName": "Tin, tin articles, metal",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001609",
+        "commodityName": "Titanium tetrachloride",
+        "commodityGroupName": "Chilled - Chemicals and fertilizers",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004302",
+        "commodityName": "Tobacco, tobacco accessories",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002909",
+        "commodityName": "Toilet paper, paper napkins, diapers, sanitary towels",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001364",
+        "commodityName": "Tomatoes, frozen, vegetables",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001365",
+        "commodityName": "Tomatoes, non-frozen, vegetables",
+        "commodityGroupName": "Chilled - Vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004401",
+        "commodityName": "Toys, games",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001610",
+        "commodityName": "Trichloric acid",
+        "commodityGroupName": "Chilled - Chemicals and fertilizers",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000558",
+        "commodityName": "Tuna, Albacore, ULT(-60C/-76F), fish",
+        "commodityGroupName": "Frozen - Super freezer - Fish and foodstuff",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000559",
+        "commodityName": "Tuna, By-Catch, ULT(-60C/-76F), fish",
+        "commodityGroupName": "Frozen - Super freezer - Fish and foodstuff",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000560",
+        "commodityName": "Tuna, Land Processed, ULT(-60C/-76F), fish",
+        "commodityGroupName": "Frozen - Super freezer - Fish and foodstuff",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000561",
+        "commodityName": "Tuna, NOE, ULT(-60C/-76F), fish",
+        "commodityGroupName": "Frozen - Super freezer - Fish and foodstuff",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000556",
+        "commodityName": "Tuna, Tuna, ULT(-60C/-76F), fish",
+        "commodityGroupName": "Frozen - Super freezer - Fish and foodstuff",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000557",
+        "commodityName": "Tuna,yellow Fin, ULT(-60C/-76F), fish",
+        "commodityGroupName": "Frozen - Super freezer - Fish and foodstuff",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000554",
+        "commodityName": "Tuna,yellowfin, frozen, fish",
+        "commodityGroupName": "Frozen - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000555",
+        "commodityName": "Tuna,yellowfin, non-frozen, fish",
+        "commodityGroupName": "Chilled - Fish",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002315",
+        "commodityName": "Tungsten wire, metal",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004117",
+        "commodityName": "Twine, cordage, ropes, cables, textiles",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004501",
+        "commodityName": "Umbrellas, sun umbrellas, walking-sticks, seat-sticks, whips, riding-crops and parts thereof",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "999910",
+        "commodityName": "US Flag Compensatory Cargo",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "999995",
+        "commodityName": "US Flag US Agricultural Cargoes",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "999993",
+        "commodityName": "US Flag US Civilian Agencies Cargo",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "999992",
+        "commodityName": "US Flag US Export Import Bank",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "999997",
+        "commodityName": "US Flag US Foreign Military Sales",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "999990",
+        "commodityName": "US Flag US Military Cargo (Other Than Household Goods)",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "999991",
+        "commodityName": "US Government Household Goods and Privately Owned Vehicles",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "999999",
+        "commodityName": "US Military Cargo (non Universal Contract)",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "003211",
+        "commodityName": "Used - Tires, tyres, rubber",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001611",
+        "commodityName": "Vanadium oxides, hydroxides",
+        "commodityGroupName": "Chilled - Chemicals and fertilizers",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000630",
+        "commodityName": "Vegetable juice, frozen, foodstuff",
+        "commodityGroupName": "Frozen - Beverages",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000631",
+        "commodityName": "Vegetable juice, non-frozen, foodstuff",
+        "commodityGroupName": "Chilled - Beverages",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001366",
+        "commodityName": "Vegetable materials, vegetable products",
+        "commodityGroupName": "Chilled - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001367",
+        "commodityName": "Vegetable saps, extracts, frozen, vegetables",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001368",
+        "commodityName": "Vegetable saps, extracts, non-frozen, vegetables",
+        "commodityGroupName": "Chilled - Vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001369",
+        "commodityName": "Vegetables, nos, frozen, vegetables",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001370",
+        "commodityName": "Vegetables, nos, non-frozen, vegetables",
+        "commodityGroupName": "Chilled - Vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000632",
+        "commodityName": "Vegetables, preserved, canned, non-frozen, foodstuff",
+        "commodityGroupName": "Chilled - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000633",
+        "commodityName": "Vegetables, preserved, frozen, foodstuff",
+        "commodityGroupName": "Frozen - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004607",
+        "commodityName": "Vehicles, cars, buses, trucks, lorries, motorcycles, bicycles, knock-down, CKD, new",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004608",
+        "commodityName": "Vehicles, cars, buses, trucks, lorries, motorcycles, bicycles, used",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004705",
+        "commodityName": "Veneer, sliced, peeled",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000634",
+        "commodityName": "Vinegar, foodstuff",
+        "commodityGroupName": "Chilled - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004118",
+        "commodityName": "Wadding, felt, nonwovens, thread, cord, yarn, strip, textiles",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000745",
+        "commodityName": "Walnuts",
+        "commodityGroupName": "Chilled - Grain, rice, flour, seed, nuts and vegetable oil",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002803",
+        "commodityName": "Wastepaper",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000746",
+        "commodityName": "Watermelons, frozen, fruit",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000747",
+        "commodityName": "Watermelons, non-frozen, fruit",
+        "commodityGroupName": "Chilled - Fruits (exc. avocado, banana, pineapples, papaya, berries and citrus)",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002910",
+        "commodityName": "Waxes",
+        "commodityGroupName": "Chilled - Other",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001412",
+        "commodityName": "White goods",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004002",
+        "commodityName": "White pigments, titanium dioxide",
+        "commodityGroupName": "Chilled - Chemicals and fertilizers",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000204",
+        "commodityName": "Wine, beverages bottled",
+        "commodityGroupName": "Chilled - Beverages",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000205",
+        "commodityName": "Wine, beverages, Bulk",
+        "commodityGroupName": "Chilled - Beverages",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004706",
+        "commodityName": "Wood pulp",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "004119",
+        "commodityName": "Wool, animal hair, textiles",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001371",
+        "commodityName": "Yams, frozen, vegetables",
+        "commodityGroupName": "Frozen - Fruits and vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "001372",
+        "commodityName": "Yams, non-frozen, vegetables",
+        "commodityGroupName": "Chilled - Vegetables",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "000635",
+        "commodityName": "Yeast, foodstuff",
+        "commodityGroupName": "Chilled - Foodstuff, food ingredients and dairy",
+        "brand": "MAEU"
+    },
+    {
+        "commodityCode": "002316",
+        "commodityName": "Zinc, zinc articles, metal",
+        "commodityGroupName": "",
+        "brand": "MAEU"
+    }
+]
