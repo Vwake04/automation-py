@@ -4,29 +4,73 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>INSTANT PRICES FORM</title>
 </head>
 <body>
 
     <form action="/completeForm" method = "POST">
 
-        {% for city in citiesFrom %}
-            <input type="radio" id="_from" name="_from">
-            <label for="_from">{{city["cityName"]}} || {{city["regionName"]}} || {{city["countryName"]}}</label><br>
-            <!-- <h1>{{city["maerskGeoLocationId"]}}</h1> -->
-            <!-- <h1>{{city["countryName"]}}</h1> -->
-            <!-- <h1>{{city["cityName"]}}</h1> -->
-            <!-- <h1>{{city["regionName"]}}</h1> -->
-        {% endfor %}
+        <h2>FROM</h2>
+        <select name="FROM">
+            {% for f in _from %}
+            <option value="{{ f.maerskGeoLocationId }};{{ f.countryCode }};{{ f.maerskRkstCode }}">{{ f.cityName }}, {{ f["regionName"] }}, {{ f["countryName"] }}</option>
+            {% endfor %}
+        </select>
+        <select name="FROM_MODE">
+            <option value="CY">CY</option>
+            <option value="SD">SD</option>
+        </select>
 
-        {% for city in citiesTo %}
-            <input type="radio" id="_to" name="_to" value= >
-            <label for="_to">{{city["cityName"]}} || {{city["regionName"]}} || {{city["countryName"]}}</label><br>
-            <!-- <h1>{{city["maerskGeoLocationId"]}}</h1> -->
-            <!-- <h1>{{city["countryName"]}}</h1> -->
-            <!-- <h1>{{city["cityName"]}}</h1> -->
-            <!-- <h1>{{city["regionName"]}}</h1> -->
-        {% endfor %}
+        <h2>TO</h2>
+        <select name="TO">
+            {% for f in _to %}
+            <option value="{{ f.maerskGeoLocationId }};{{ f.countryCode }};{{ f.maerskRkstCode }}">{{ f["cityName"] }}, {{ f["regionName"] }}, {{ f["countryName"] }}</option>
+            {% endfor %}
+        </select>
+
+        <select name="TO_MODE">
+            <option value="CY">CY</option>
+            <option value="SD">SD</option>
+        </select>
+
+        <h2>COMMODITY DETAILS</h2>
+        <span>Commodity Type: </span>
+        <select name="COMMODITY">
+            {% for c in commodity %}
+            <option value="{{ c.commodityName }}">{{ c.commodityName }}</option>
+            {% endfor %}
+        </select>
+
+        <span>Dangerous Cargo: </span>
+        <select name="isDangerous">
+            <option value="0"> NO (DEFAULT) </option>
+            <option value="1"> YES </option>
+        </select>
+
+        <h2>CONTAINER DETAILS</h2>
+        <span>Shipper owned container (SOC): </span>
+        <select name="isShipperOwnedContainer">
+            <option value="0"> NO (DEFAULT) </option>
+            <option value="1"> YES </option>
+        </select>
+
+        <span>Non-operating reefer: </span>
+        <select name="isNonOperatingReefer">
+            <option value="0"> NO (DEFAULT) </option>
+            <option value="1"> YES </option>
+        </select>
+
+        <span>Container Type: </span>
+        <select name="CONTAINER">
+            {% for c in container %}
+            <option value="{{ c.sizeTypeDisplayName }}">{{ c.sizeTypeDisplayName }}</option>
+            {% endfor %}
+        </select>
+
+        <span>Container quantity: </span> <input type="text" name="quantity">
+        <span>Weight - cargo only(Kg): </span> <input type="text" name="weight">
+        <span>Date: </span> <input type="text" name="date" placeholder="YYYY-MM-DD">
+
         <p><input type = "submit" value = "Submit" /></p>
 
     </form>

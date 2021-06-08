@@ -4,7 +4,7 @@ from time import sleep
 from copy import deepcopy
 from random import uniform
 
-from util import getCommodity, getContainer, getCity
+from util import getCommodity, getContainer, getCity, sendMail
 
 assertListEqual = TestCase().assertListEqual
 assertDictEqual = TestCase().assertDictEqual
@@ -75,23 +75,30 @@ def fetchProducts(token, data):
     return []
 
 
-def run(token, _from, _to, commodity, container):
+def run(token, _from, _to, _commodity, _container, date):
     ########################################
     # Request data
-    token = "Bearer eyJ0eXAiOiJKV1QiLCJraWQiOiJQbStTdGZEejRmY0tzdk5iUTBscGNETWlyNEk9IiwiYWxnIjoiUlMyNTYifQ.eyJhdF9oYXNoIjoiWnVsQ3ZOc3ZNR2F2UG9lb2daU3VjUSIsInN1YiI6ImJob29taV9zaGlwcGluZyIsImZpcnN0bmFtZSI6Ikt1c2giLCJhdWRpdFRyYWNraW5nSWQiOiIyYTBhMjlmMy04OGY5LTRlMmItODY4My00NmUyN2Q4MWQwOGItMTkyMzc3OSIsInJvbGVzIjpbIlBheW1lbnRzIiwiSW52b2ljZXMiLCJCb29raW5nIiwiQ29udHJhY3RSYXRlIiwiV0JPTEFwcHJvdmVyIiwiRG9jdW1lbnRhdGlvbiIsIkJhc2ljQ3VzdG9tZXIiXSwiaXNzIjoiaHR0cHM6Ly9pYW0ubWFlcnNrLmNvbS9hY20vb2F1dGgyL21hdSIsInRva2VuTmFtZSI6ImlkX3Rva2VuIiwib2ZmaWNlIjoiS2FuZGxhIC0gSU4iLCJhY3IiOiIwIiwiYXpwIjoiYmNhMDAxIiwiYXV0aF90aW1lIjoxNjIyOTc1NTM3LCJwZXJzb25pZCI6IjQxMDAyNDI5MjA1IiwiZXhwIjoxNjIyOTgyNzQxLCJjdXN0b21lcl9jb2RlIjoiNDEwMDI0MjkwOTQiLCJpYXQiOjE2MjI5NzU1NDEsImVtYWlsIjoiYmhvb21pc2hpcHBpbmdAZ21haWwuY29tIiwibm9uY2UiOiJVamxqVHFQU1hzb3ozY25pSVJCWSIsImxhc3RuYW1lIjoiVGhhY2tlciIsImF1ZCI6ImJjYTAwMSIsImNfaGFzaCI6ImJrN2ZXaXdzVkw1SVE1SzlFM2ljZ1EiLCJjYXJyaWVyIjoiTUFFVSIsInJlYWxtIjoiL21hdSIsInRva2VuVHlwZSI6IkpXVFRva2VuIiwidXNlcm5hbWUiOiJiaG9vbWlfc2hpcHBpbmcifQ.CIr94Y5cyjAA0-JZxN7M9nNIMw--Jgg6FEmJTmHnb6qA8qYXsdkkjkEGCZ8UyAnifWXMKrsuMKFdUXpMIccdEabwTp8_cihWipn5bFrPJl-tnWPsUG1xEHP5qjAMxmHqSygQpYKFvXXmfyywxdZ8OixiuZNybNbmOviUFb0HzRI8MbAocWXL0jIMN-LIXBHArMrG10Vb-GlHIHKN5B0oXESQiAPM7buDQk8ulmR72O9mzgZDlT8J_I7cx2z9zbov02WI-tWu7NarQFSY-mTllJQaDfvqI72J-5LF5jvJSgx3sh99Z72qe232E_nNHZzL36o19pjSBOa03Eyagc4MGA"
-    _from = getCity(, "CY")
-    _to = getCity(, "CY")
-    commodity = getCommodity("Adhesive tape, plastic", False)
-    container = getContainer("20 Dry Standard", 18000, 1, False, False)
-    date = "2021-06-09"
+    # token = "Bearer eyJ0eXAiOiJKV1QiLCJraWQiOiJQbStTdGZEejRmY0tzdk5iUTBscGNETWlyNEk9IiwiYWxnIjoiUlMyNTYifQ.eyJhdF9oYXNoIjoiWnVsQ3ZOc3ZNR2F2UG9lb2daU3VjUSIsInN1YiI6ImJob29taV9zaGlwcGluZyIsImZpcnN0bmFtZSI6Ikt1c2giLCJhdWRpdFRyYWNraW5nSWQiOiIyYTBhMjlmMy04OGY5LTRlMmItODY4My00NmUyN2Q4MWQwOGItMTkyMzc3OSIsInJvbGVzIjpbIlBheW1lbnRzIiwiSW52b2ljZXMiLCJCb29raW5nIiwiQ29udHJhY3RSYXRlIiwiV0JPTEFwcHJvdmVyIiwiRG9jdW1lbnRhdGlvbiIsIkJhc2ljQ3VzdG9tZXIiXSwiaXNzIjoiaHR0cHM6Ly9pYW0ubWFlcnNrLmNvbS9hY20vb2F1dGgyL21hdSIsInRva2VuTmFtZSI6ImlkX3Rva2VuIiwib2ZmaWNlIjoiS2FuZGxhIC0gSU4iLCJhY3IiOiIwIiwiYXpwIjoiYmNhMDAxIiwiYXV0aF90aW1lIjoxNjIyOTc1NTM3LCJwZXJzb25pZCI6IjQxMDAyNDI5MjA1IiwiZXhwIjoxNjIyOTgyNzQxLCJjdXN0b21lcl9jb2RlIjoiNDEwMDI0MjkwOTQiLCJpYXQiOjE2MjI5NzU1NDEsImVtYWlsIjoiYmhvb21pc2hpcHBpbmdAZ21haWwuY29tIiwibm9uY2UiOiJVamxqVHFQU1hzb3ozY25pSVJCWSIsImxhc3RuYW1lIjoiVGhhY2tlciIsImF1ZCI6ImJjYTAwMSIsImNfaGFzaCI6ImJrN2ZXaXdzVkw1SVE1SzlFM2ljZ1EiLCJjYXJyaWVyIjoiTUFFVSIsInJlYWxtIjoiL21hdSIsInRva2VuVHlwZSI6IkpXVFRva2VuIiwidXNlcm5hbWUiOiJiaG9vbWlfc2hpcHBpbmcifQ.CIr94Y5cyjAA0-JZxN7M9nNIMw--Jgg6FEmJTmHnb6qA8qYXsdkkjkEGCZ8UyAnifWXMKrsuMKFdUXpMIccdEabwTp8_cihWipn5bFrPJl-tnWPsUG1xEHP5qjAMxmHqSygQpYKFvXXmfyywxdZ8OixiuZNybNbmOviUFb0HzRI8MbAocWXL0jIMN-LIXBHArMrG10Vb-GlHIHKN5B0oXESQiAPM7buDQk8ulmR72O9mzgZDlT8J_I7cx2z9zbov02WI-tWu7NarQFSY-mTllJQaDfvqI72J-5LF5jvJSgx3sh99Z72qe232E_nNHZzL36o19pjSBOa03Eyagc4MGA"
+    # _from = getCity(, "CY")
+    # _to = getCity(, "CY")
+    # commodity = getCommodity("Adhesive tape, plastic", False)
+    # container = getContainer("20 Dry Standard", 18000, 1, False, False)
+    # date = "2021-06-09"
+    # print(_from)
+    # print(_to)
+    # print(_commodity)
+    # print(_container)
+    # print(date)
     ########################################
 
+    checks = 3
     offersEmpty = 0
     previousOffers = {}
-    while 1:
-        data = {"from": _from,"to": _to,"commodity": commodity,"containers": [container],"unit": "KG","shipmentPriceCalculationDate": date,"brandCode": "MAEU","customerCode": "41002429094","isSameRequest": False,"weekOffset": 0,"loadAFLS": False}
-
-        secs = uniform(300.254, 420.123)
+    while checks:
+        data = {"from": _from,"to": _to,"commodity": _commodity,"containers": [_container],"unit": "KG","shipmentPriceCalculationDate": date,"brandCode": "MAEU","customerCode": "41002429094","isSameRequest": False,"weekOffset": 0,"loadAFLS": False}
+        print(data)
+        secs = uniform(1,5)
+        # secs = uniform(300.254, 420.123)
         sleep(secs)
         print(secs)
 
@@ -105,12 +112,17 @@ def run(token, _from, _to, commodity, container):
                 for i in offers:
                     print(i, offers[i])
 
+                sendMail(offers)
                 print("Email Sent")
+
 
                 print(e)
                 previousOffers = deepcopy(offers)
         else:
             offersEmpty += 1
+        
+        return offers
+        # checks -= 1
 
     if offersEmpty >= 3:
         print("Failure Email Sent")

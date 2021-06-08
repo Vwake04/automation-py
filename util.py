@@ -1,55 +1,68 @@
 import json
 import requests
+import smtplib, ssl
 
-def getCity(cityRkstCode, serviceMode):
-    headers = {'authority': 'api.maersk.com','accept': 'application/json, text/plain, */*','user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36','origin': 'https://www.maersk.com','sec-fetch-site': 'same-site','sec-fetch-mode': 'cors','sec-fetch-dest': 'empty','referer': 'https://www.maersk.com/','accept-language': 'en-US,en;q=0.9'}
-    try:
-        data = requests.get(f"https://api.maersk.com/locations/?brand=maeu&type=city&pageSize=50&maerskRkstCode={cityRkstCode}")
-        data = data.json()
-        return {
-            "maerskGeoId": data["maerskGeoLocationId"],
-            "countryCode": data["countryCode"],
-            "maerskServiceMode": serviceMode,
-            "maerskRkstCode": data["maerskRkstCode"]
-        }
+commodity = []
+with open("commodity.json") as f:
+    commodity = json.load(f)
 
-    except Exception as e:
-        print("Cannot get city details")
+container = []
+with open("container.json") as f:
+    container = json.load(f)
+
+def getCity(data, serviceMode):
+    return {
+        "maerskGeoId": data[0],
+        "countryCode": data[1],
+        "maerskServiceMode": serviceMode,
+        "maerskRkstCode": data[2]
+    }
 
 def getCommodity(commodityName, isDangerous = False):
-    data = []
-    with open("commodity.json") as f:
-        data = json.load(f)
-
-    for d in data:
+    for d in commodity:
         if d["commodityName"] == commodityName:
             return {
                 "id": d["commodityCode"],
                 "name": d["commodityName"],
-                "isDangerous": isDangerous,
+                "isDangerous": bool(int(isDangerous)),
                 "dangerousDetails": []
             }
     return {}            
 
 def getContainer(containerName, weight, quantity = 1, isShipperOwnedContainer = False, isNonOperatingReefer = False):
-    data = []
-    with open("container.json") as f:
-        data = json.load(f)
-
-    for d in data:
+    for d in container:
         if d["sizeTypeDisplayName"] == containerName:
             return {
                 "isoCode": d["isoContainerSizeTypeCd"],
                 "name": d["sizeTypeDisplayName"],
                 "size": d["sizeCd"],
                 "type": d["typeCd"],
-                "weight": weight,
-                "quantity": quantity,
+                "weight": int(weight),
+                "quantity": int(quantity),
                 "isReefer": d["reeferFlag"],
-                "isNonOperatingReefer": isNonOperatingReefer,
-                "isShipperOwnedContainer": isShipperOwnedContainer
+                "isNonOperatingReefer": bool(int(isNonOperatingReefer)),
+                "isShipperOwnedContainer": bool(int(isShipperOwnedContainer))
             }
     return {}            
+
+def sendMail(body):
+    port = 587  # For starttls
+    smtp_server = "smtp.gmail.com"
+    sender_email = "facemefaith@gmail.com"
+    receiver_email = "facemefaith@gmail.com"
+    password = "grey@tal"
+    message = f"""\
+    Subject: Hi there
+
+    {body}"""
+
+    context = ssl.create_default_context()
+    with smtplib.SMTP(smtp_server, port) as server:
+        server.ehlo()  # Can be omitted
+        server.starttls(context=context)
+        server.ehlo()  # Can be omitted
+        server.login(sender_email, password)
+        server.sendmail(sender_email, receiver_email, message)
 
 # print(getCommodity("Albacore, frozen, fish", False))
 # print(getContainer("40 Dry Standard", 18000, 1, False, False))
